@@ -1,8 +1,8 @@
 # Tux3doSwap
-#### IPFS HASH: QmViXp3nd7wN2Mv9cC1rWd4iq5ZD5iTvFiHp7ALNSXVmWT
-### https://ipfs.io/ipfs/QmViXp3nd7wN2Mv9cC1rWd4iq5ZD5iTvFiHp7ALNSXVmWT
+#### IPFS HASH: QmZHGfCmKRoVnqpM2bqULnkG25EnSjp6gUzQJBW84YkYR1
+### https://ipfs.io/ipfs/QmZHGfCmKRoVnqpM2bqULnkG25EnSjp6gUzQJBW84YkYR1/
 
-### https://vg8pnekdgfi4tfr9rvvbeome01cebcf2eksopbf788srf9bav7ucabg.siasky.net/
+### https://tux3doswap.surge.sh/
 
 #### Description
 When transferring currencies between two accounts with the conventional financial system, an intermediary is often necessary to facilitate a transaction. Furthermore, these platforms are often referred to as centralized exchanges as they’re based on a centralized system. In contrast, a decentralized exchange, or a DEX, rather emulates the functionalities of a centralized exchange but is based on a decentralized system. What this basically means is that the back-end of these exchanges exists on a blockchain. 
